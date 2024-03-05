@@ -1,5 +1,4 @@
 public/
-docs/
 themes/**/*
 .hugo_build.lock
 node_modules/
