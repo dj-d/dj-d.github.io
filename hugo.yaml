@@ -234,7 +234,6 @@ params:
 
   achievements:
     enable: true
-    # title: "Custom Name"
     items:
       - title: CyberChallenge.it
         content: CyberChallenge.IT is the first cybersecurity training program for female college and high school students organized by the Cybersecurity National Lab.
