@@ -55,7 +55,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Daniele Albanese."
-    subtitle: "I'm a DevOps Engineer"
+    subtitle: "I'm a Cloud/DevOps Engineer"
     content: "
       I am a developer with a Master's degree in __Software System Security__ and a Bachelor's degree in __Computer Science__.
       My interests are __Cybersecurity__, __CI/CD__, __Docker__, __IoT__ and everything related to IT in general."
@@ -103,21 +103,21 @@ params:
   experience:
     enable: true
     items:
-      - job: "DevOps Engineer"
+      - job: "Cloud/DevOps Engineer"
         company: "Storm Reply"
         companyUrl: "https://www.reply.com/storm-reply/en/"
         date: "Jan 2024 - Present"
         content: |
-          - Implemented cloud-based application solutions as a DevOps Engineer
+          - Implemented cloud-based application solutions as a Cloud/DevOps Engineer
           - Ensured reliability, security, and scalability of AWS production systems
           - Automated operational processes through tool design, maintenance, and management
 
-      - job: "DevOps Engineer"
+      - job: "Cloud/DevOps Engineer"
         company: "Softwave Soltec"
         companyUrl: "https://www.softwave-soltec.it/"
         date: "Jan 2024 - Present"
         content: |
-          - Implemented cloud-based application solutions as a DevOps Engineer
+          - Implemented cloud-based application solutions as a Cloud/DevOps Engineer
           - Ensured reliability, security, and scalability of AWS production systems
           - Automated operational processes through tool design, maintenance, and management
 
