@@ -11,7 +11,7 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+# Paginate: 3
 enableRobotsTXT: true
 
 markup:
